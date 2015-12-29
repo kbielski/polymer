@@ -17,3 +17,11 @@ google-map {
 	height: 400px;
 	width: 100%;
 }
+
+#mainToolbar {
+	background-color: #f9f9f9;
+	background-repeat: no-repeat;
+    background-image: url('../images/background-800x170.png');
+    background-size: contain;
+    color: #333;
+}
