@@ -1,0 +1,9 @@
+{
+  "firebase": "kbielski-start",
+  "public": "app",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
